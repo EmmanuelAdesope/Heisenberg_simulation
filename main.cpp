@@ -1,3 +1,4 @@
+//Main Program for Model simulation
 #include "lattice.h"
 #include "simulation.h"
 #include "measurements.h"
