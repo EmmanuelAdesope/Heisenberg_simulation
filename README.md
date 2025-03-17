@@ -9,3 +9,13 @@ To Study the critical temperature and phase transitions of the Heisenberg Model
 Modules for parameters: eg. Energy, Magnetisation etc
 #Visualization
 Front end visuation will also be implemented
+
+Project Structure 
+
+heisenberg-simulation/
+├── vector_utils.h       # Vector operations and random number generation
+├── lattice.h            # Lattice structure and energy calculations
+├── simulation.h         # Monte Carlo simulation algorithms
+├── measurements.h       # Statistical measurements and analysis
+├── main.cpp             # Main program and orchestration
+└── Makefile             # Build configuration
